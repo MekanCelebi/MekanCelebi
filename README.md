@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MekanCelebi
 - 👀 I’m interested in Blockchain,Digital Marketing
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mekancelebi065@gmail.com
 
